@@ -1,0 +1,10 @@
+title: Younes Apps Privacy Policies
+description: Privacy policies for mobile applications published by Younes Apps.
+url: "https://megaacheyounes.github.io"
+baseurl: "/play-apps-privacy-policies"
+
+markdown: kramdown
+theme: null
+
+exclude:
+  - README.md
