@@ -12,6 +12,7 @@ Public policy URLs use app slugs:
 - `https://megaacheyounes.github.io/play-apps-privacy-policies/network-radar/`
 - `https://megaacheyounes.github.io/play-apps-privacy-policies/smart-base-converter/`
 - `https://megaacheyounes.github.io/play-apps-privacy-policies/smart-flash-alerts/`
+- `https://megaacheyounes.github.io/play-apps-privacy-policies/wifi-config-plus/`
 - `https://megaacheyounes.github.io/play-apps-privacy-policies/algerian-flag-wallpapers/`
 - `https://megaacheyounes.github.io/play-apps-privacy-policies/kalila-wa-dimna-stories/`
 - `https://megaacheyounes.github.io/play-apps-privacy-policies/algerian-army-equipment/`
