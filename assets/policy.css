@@ -52,6 +52,20 @@ a {
   color: var(--accent);
 }
 
+.policy-rtl {
+  margin-top: 48px;
+  padding-top: 32px;
+  border-top: 1px solid var(--border);
+  direction: rtl;
+  text-align: right;
+}
+
+.policy-rtl h1,
+.policy-rtl h2,
+.policy-rtl p {
+  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+}
+
 @media (max-width: 640px) {
   .policy {
     width: 100%;
